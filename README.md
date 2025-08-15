@@ -1,4 +1,6 @@
 # Blinkit Data Analysis Dashboard
+<img width="1311" height="748" alt="Blinkit-Dashboard" src="https://github.com/user-attachments/assets/48453b4b-e527-4001-88c8-b21e6179e7b4" />
+
 
 ## Project Overview
 
